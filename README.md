@@ -22,9 +22,3 @@ This is a beginner-friendly console-based Library Management System written in C
 - `main.cpp`: Core logic and menu-driven interface
 - `Books.txt`: Auto-generated file to store book data
 
-## How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/library-system.git
-   cd library-system
