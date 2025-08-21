@@ -22,3 +22,5 @@ This is a beginner-friendly console-based Library Management System written in C
 - `main.cpp`: Core logic and menu-driven interface
 - `Books.txt`: Auto-generated file to store book data
 
+## Author
+Esraa — Passionate about building practical projects that help others learn. This project is part of her journey toward mastering data structures and systems programming.
